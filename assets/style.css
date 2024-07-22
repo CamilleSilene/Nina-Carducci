@@ -98,13 +98,14 @@ body {
 	padding-block: 2em;
 }
 .gallery .nav {
-	justify-content: center;
-	font-size: 18px;
+	justify-content: center;	
 }
+
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
+	color: black;
 	background-color: #BEB45A;
 	border-radius:0 ;
+	
 }
 .nav-pills .nav-link {
 	color: #000
